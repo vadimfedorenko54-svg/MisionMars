@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0f1a;
+    color: white;
+}
+
+header {
+    background: #111;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    margin: 10px;
+    color: #ff4d4d;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px;
+    border-bottom: 1px solid #333;
+}
+
+h2 {
+    color: #ff4d4d;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+.gallery {
+    display: flex;
+    gap: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #111;
+}
